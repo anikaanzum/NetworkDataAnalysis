@@ -99,5 +99,5 @@ we did the calculation for all the 8 pairs of counties.
 <img src="images/diff_LTE_coverage_8pair.png" width="400"> <img src="images/diff_2g3g_coverage_8pair.png"  width="400">
 
 ### Acknowledgement:
-This is my independent study project during my Masters in CS. I am forever grateful to my advisor Mike Wittie and co-advisor Veronika Strnadová-Neeley for their constant supervision and support on this project.
+This is my independent study project during my Masters in CS. I am forever grateful to my advisor Dr. Mike Wittie and co-advisor Dr. Veronika Strnadová-Neeley for their constant supervision and support on this project.
 
