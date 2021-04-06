@@ -6,7 +6,6 @@ __pycache__/
 CensusData/
 sample.csv
 kmeans.png
-eduVSincome.png
 *.pdf
 # C extensions
 *.so
